@@ -1,0 +1,25 @@
+
+.modal{
+    /* border: 3px solid; */
+    justify-content: center;
+    margin-top: 500px;
+    /* margin-right: 900px; */
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    background-color: white;
+    padding-top: 30px;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 12px;
+}
+input{
+    width: 600px;
+    height: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.close{
+    background-color: rgb(255, 255, 85);
+    padding: 10px 30px;
+    margin-top: 20px;
+}
