@@ -12,23 +12,20 @@ export default {
         "exploreash":"#E7E6E6",
         "shoppingyellow":"#E5C643",
       },
-      backgroundImage:{
-        "happy-girl": "url('/src/assets/images/herobg.png')",
-        "happy-girl2": "url('/src/assets/images/secondbg.svg')",
-        "first-icon": "url('/src/assets/images/h.m.svg')",
-        "second-icon": "url('/src/assets/images/lacoste.png')",
-        "third-icon": "url('/src/assets/images/levis.png')",
-        "fourth-icon": "url('/src/assets/images/obey.png')",
-        "fifth-icon": "url('/src/assets/images/shopify.png')",
-        "sixth-icon": "url('/src/assets/images/amazon.png')",
-        "girl1": "url('/src/assets/images/girl1.png')",
-        "girl2": "url('/src/assets/images/girl2.png')",
-        "girl3": "url('/src/assets/images/girl3.png')",
-        "girl4": "url('/src/assets/images/footerbg.png')",
-        "girl5": "url('/src/assets/images/footerbg2.png')",
-        
-
-
+      backgroundImage: {
+        "happy-girl": "url('/images/herobg.png')",
+        "happy-girl2": "url('/images/secondbg.svg')",
+        "first-icon": "url('/images/h.m.svg')",
+        "second-icon": "url('/images/lacoste.png')",
+        "third-icon": "url('/images/levis.png')",
+        "fourth-icon": "url('/images/obey.png')",
+        "fifth-icon": "url('/images/shopify.png')",
+        "sixth-icon": "url('/images/amazon.png')",
+        "girl1": "url('/images/girl1.png')",
+        "girl2": "url('/images/girl2.png')",
+        "girl3": "url('/images/girl3.png')",
+        "girl4": "url('/images/footerbg.png')",
+        "girl5": "url('/images/footerbg2.png')",
       }
       
     },
